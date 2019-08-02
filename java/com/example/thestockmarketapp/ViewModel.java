@@ -1,3 +1,5 @@
+//Author: Tahfimul Latif
+
 package com.example.thestockmarketapp;
 
 import android.arch.lifecycle.MutableLiveData;
